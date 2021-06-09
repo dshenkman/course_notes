@@ -1,0 +1,25 @@
+{
+  "name": "new_node_lesson",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "script.js",
+  "scripts": {
+    "test": "s",
+    "start": "nodemon fsscript.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "s"
+  },
+  "keywords": [
+    "s"
+  ],
+  "author": "s",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
